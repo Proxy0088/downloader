@@ -1,0 +1,8 @@
+https://broth.itch.zone/install-itch/linux-appimage-amd64/LATEST/archive.zip
+https://static.itch.io/images/app-white.svg
+https://static.itch.io/images/app/collections@1x.png
+https://static.itch.io/images/app/gamepage@1x.png
+https://static.itch.io/images/app/html5@1x.png
+https://static.itch.io/images/app/install@1x.png
+https://static.itch.io/images/itchio-textless-black.svg
+https://static.itch.io/images/logo-black-new.svg
